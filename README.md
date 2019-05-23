@@ -1,2 +1,2 @@
-# me
-Portfolio of work
+# Mariah Marasco
+Welcome to my Portfolio. 
