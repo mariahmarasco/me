@@ -8,15 +8,17 @@
 }
 
 #p0 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 900;
   font-size: 36;
   color: #BD8B9C;
+  letter-spacing: 5;
 }
 
 #p1 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 800;
-  font-size: 26;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 500;
+  font-size: 24;
   color: #424B54;
+  letter-spacing: .5;
 }
