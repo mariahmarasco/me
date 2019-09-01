@@ -25,6 +25,15 @@
   letter-spacing: .5;
 }
 
+#nav {
+  font-family: 'Red Hat Text', sans-serif;
+  font-weight: 300;
+  font-size: 10;
+  color: #424B54;
+  letter-spacing: .5;
+  float: left;
+}
+
 #p3 {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 300;
