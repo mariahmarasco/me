@@ -604,10 +604,12 @@ iframe {
 
 img {
   width: 115%;
+  margin-left: -3%;
 }
 
 img:hover {
   width: 115%;
+  margin-left: -3%;
 }
 
 #container {
@@ -623,7 +625,7 @@ img:hover {
   color: #FFF;
   letter-spacing: .8;
   margin: auto;
-  margin-right: .8%;
+  margin-right: 2.8%;
   text-decoration: none;
 }
 
@@ -632,7 +634,7 @@ img:hover {
   font-weight: 400;
   font-size: 14;
   color: #9CFCF4;
-  letter-spacing: .8;
+  letter-spacing: 2.8;
   margin: auto;
   margin-right: .8%;
   text-decoration: none;
@@ -643,7 +645,7 @@ img:hover {
   font-weight: 400;
   font-size: 14;
   color: #9CFCF4;
-  letter-spacing: .8;
+  letter-spacing: 2.8;
   margin: auto;
   margin-right: .8%;
   text-decoration: none;
@@ -654,7 +656,7 @@ img:hover {
   font-weight: 400;
   font-size: 14;
   color: #FF3D23;
-  letter-spacing: .8;
+  letter-spacing: 2.8;
   margin: auto;
   margin-right: .8%;
   text-decoration: none;
