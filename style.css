@@ -603,11 +603,11 @@ iframe {
               @media only screen and (max-width: 600px) {
 
 img {
-  width: 100%;
+  width: 115%;
 }
 
 img:hover {
-  width: 100%;
+  width: 115%;
 }
 
 #container {
@@ -619,7 +619,7 @@ img:hover {
 #nav a {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 15;
+  font-size: 14;
   color: #FFF;
   letter-spacing: .8;
   margin: auto;
@@ -630,7 +630,7 @@ img:hover {
 #nav a:hover {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 15;
+  font-size: 14;
   color: #9CFCF4;
   letter-spacing: .8;
   margin: auto;
@@ -641,7 +641,7 @@ img:hover {
 #nav a:active {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 15;
+  font-size: 14;
   color: #9CFCF4;
   letter-spacing: .8;
   margin: auto;
@@ -652,7 +652,7 @@ img:hover {
 #nav a:live {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 15;
+  font-size: 14;
   color: #FF3D23;
   letter-spacing: .8;
   margin: auto;
@@ -662,7 +662,7 @@ img:hover {
 
 #nav {
   text-align: center;
-  width: 85%;
+  width: 90%;
   margin: auto;
   top: 0;
   word-spacing: 7;
