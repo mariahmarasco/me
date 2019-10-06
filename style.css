@@ -622,7 +622,7 @@ img:hover {
 #nav a {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 14;
+  font-size: 13.5;
   color: #FFF;
   letter-spacing: .8;
   margin: auto;
@@ -633,7 +633,7 @@ img:hover {
 #nav a:hover {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 14;
+  font-size: 13.5;
   color: #9CFCF4;
   letter-spacing: .8;
   margin: auto;
@@ -644,7 +644,7 @@ img:hover {
 #nav a:active {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 14;
+  font-size: 13.5;
   color: #9CFCF4;
   letter-spacing: .8;
   margin: auto;
@@ -655,7 +655,7 @@ img:hover {
 #nav a:live {
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 400;
-  font-size: 14;
+  font-size: 13.5;
   color: #FF3D23;
   letter-spacing: .8;
   margin: auto;
@@ -851,7 +851,7 @@ iframe {
 
 .footerreelspage {
 /*  margin: auto;*/
-  bottom:-45;
+  bottom:-60;
   position: absolute;
   width: 101%;
   height: 7%;
