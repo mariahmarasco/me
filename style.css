@@ -604,13 +604,11 @@ iframe {
 
 img {
   width: 115%;
-  height: 40%;
   float:center;
 }
 
 img:hover {
   width: 115%;
-  height: 40%;
   float:center;
 }
 
@@ -668,7 +666,7 @@ img:hover {
   word-spacing: 7;
   padding-bottom: 8%;
   padding-top: 6%;
-  padding-right: 10%;
+  padding-left: -10%;
 }
 
 #p0 {
