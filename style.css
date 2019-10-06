@@ -604,12 +604,14 @@ iframe {
 
 img {
   width: 115%;
-  padding-left: -20%;
+  height: 40%;
+  float:center;
 }
 
 img:hover {
   width: 115%;
-  padding-left: -20%;
+  height: 40%;
+  float:center;
 }
 
 #container {
