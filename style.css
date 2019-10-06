@@ -610,12 +610,14 @@ img {
 img:hover {
   width: 115%;
   float:center;
+  padding-right: 10%;
 }
 
 #container {
   text-align: center;
   width: 75%;
   margin-left: 4%;
+  padding-right: 10%;
 }
 
 #nav a {
@@ -666,7 +668,7 @@ img:hover {
   word-spacing: 7;
   padding-bottom: 8%;
   padding-top: 6%;
-  padding-left: -10%;
+  padding-left: 10%;
 }
 
 #p0 {
