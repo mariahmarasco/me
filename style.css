@@ -330,7 +330,7 @@ img:hover {
 
 .footerinternal {
 /*  margin: auto;*/
-  bottom:0;
+  bottom:-100;
   position: fixed;
   width: 100%;
   height: 7%;
