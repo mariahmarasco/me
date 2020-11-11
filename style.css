@@ -5,6 +5,7 @@
 
 body {
  background-color: #040F0F; 
+ height: 131%;
 }
 
 #container {
@@ -248,10 +249,10 @@ img:hover {
 
 .box {
   width:28%;
-  height:29.8%;
+/*   height:29.8%; */
 /*  display: inline-block;*/
   vertical-align: top;
-  margin-top: 3%;
+  margin-top: 2.5%;
   margin-left: 2.5%;
   float: left;
 }
@@ -259,6 +260,7 @@ img:hover {
 .overlay {
   position: relative;
   z-index: 1;
+  height: 22.5%;
 }
 
 .overlay p {
