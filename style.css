@@ -1,4 +1,4 @@
-body, html, .player, .fallback {
+.player, .fallback {
 	overflow: hidden;
 	width: 100;
 	margin: 0;
