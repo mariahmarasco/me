@@ -10,7 +10,8 @@ body {
 
 #container {
   text-align: center;
-  margin-left: 5.7%;
+  margin-left: 8%;
+  margin-right: 8%;
 }
 
 #mobileimg {
@@ -243,7 +244,7 @@ img:hover {
   line-height: 2;
   opacity: .5;
   padding-top: 1.3%;
-  width: 35%;
+  width: 42%;
   float: left;
   text-align: left;
 }
