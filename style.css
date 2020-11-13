@@ -6,12 +6,8 @@
 	background-color: transparent;
 } */
 
-#document {
-	align-items: baseline;
-}
-
 .vp-center {
-	align-items: baseline;	
+	align-items: baseline !important;	
 }
 
 #header {
