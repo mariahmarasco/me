@@ -615,6 +615,7 @@ iframe {
 
 iframe .player {
   width: 100%;
+  align-items: baseline;
 }
 
 /*START OF MOBILE MEDIA QUERY*/
