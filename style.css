@@ -6,6 +6,10 @@
 	background-color: transparent;
 } */
 
+.vp-center {
+	align-items: baseline;	
+}
+
 #header {
   text-align: center;
   padding-top: 30;
